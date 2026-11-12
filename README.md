@@ -1,2 +1,3 @@
-# UNIGIS-A4-108873
-Grundlagen der Anwendungsentwicklung A4
+# Grundlagen der Anwendungsentwicklung A4
+
+Submitted by 108873
